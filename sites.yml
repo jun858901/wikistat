@@ -202,3 +202,12 @@ license: CC-BY-SA 3.0
 engine: mediawiki
 engine_options:
   api_endpoint: "https://ko.wikisource.org/w/api.php"
+
+---
+id: bigforest
+name: 큰숲백과
+url: "https://bigforest.miraheze.org/"
+license: CC-BY-SA 3.0
+engine: mediawiki
+engine_options:
+  api_endpoint: "https://bigforest.miraheze.org/wiki/api.php"
