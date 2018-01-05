@@ -29,7 +29,7 @@ engine_options:
 id: namuwiki
 name: 나무위키
 license: CC-BY-NC-SA 2.0 KR
-url: "https://namu.wiki/"
+url: "https://namu.wiki/w/"
 engine: namu
 
 #---
