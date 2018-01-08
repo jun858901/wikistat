@@ -211,3 +211,12 @@ license: CC-BY-SA 3.0
 engine: mediawiki
 engine_options:
   api_endpoint: "https://ko.wikiquote.org/w/api.php"
+
+---
+id: licentium
+name: 자유인사전
+url: "https://licentium.net/"
+license: ?
+engine: mediawiki
+engine_options:
+  api_endpoint: "https://licentium.net/wiki/api.php"
